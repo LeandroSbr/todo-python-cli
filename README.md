@@ -25,7 +25,6 @@ Clone the repo from GitHub:
 
 ```bash
 git clone git@github.com:LeandroSbr/todo-python-cli.git
-cd to-do-list
 ```
 
 ## Usage
