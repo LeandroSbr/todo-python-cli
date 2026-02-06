@@ -32,7 +32,7 @@ git clone git@github.com:LeandroSbr/todo-python-cli.git
 Run the application:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 Follow the on-screen prompt to interact with the program.
