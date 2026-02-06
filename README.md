@@ -6,7 +6,7 @@ This application allow you to add, remove, filter and sort tasks easily from you
 ## Description
 
 - **main.py**: Main file with CLI inteface and logic.
-- **to_do_class.py**: Class implementatio, whith his methods and logic.
+- **to_do_class.py**: Class implementation, whith his methods and logic.
 
 JSON file not in the repo, but the program will generate it automatically
 
